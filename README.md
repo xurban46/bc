@@ -10,6 +10,6 @@ Supervisor: Ing. Michaela Šikulová &lt;isikulova@fit.vutbr.cz>
 
 Faculty of Information Technologies<br>
 Brno University of Technology<br>
-http://www.fit.vutbr.cz/
+http://www.fit.vutbr.cz//
 
 ![Kačenka ze sauny!](http://michalwiglasz.cz/files/kachna.jpg)
