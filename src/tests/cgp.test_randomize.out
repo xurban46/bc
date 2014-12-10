@@ -1,0 +1,193 @@
+gene 0, node 0, gene 0, col 0
+input choice from 9
+gene 1, node 0, gene 1, col 0
+input choice from 9
+gene 2, node 0, gene 2, col 0
+func 0 - 15
+gene 3, node 1, gene 0, col 0
+input choice from 9
+gene 4, node 1, gene 1, col 0
+input choice from 9
+gene 5, node 1, gene 2, col 0
+func 0 - 15
+gene 6, node 2, gene 0, col 0
+input choice from 9
+gene 7, node 2, gene 1, col 0
+input choice from 9
+gene 8, node 2, gene 2, col 0
+func 0 - 15
+gene 9, node 3, gene 0, col 0
+input choice from 9
+gene 10, node 3, gene 1, col 0
+input choice from 9
+gene 11, node 3, gene 2, col 0
+func 0 - 15
+gene 12, node 4, gene 0, col 1
+input choice from 13
+gene 13, node 4, gene 1, col 1
+input choice from 13
+gene 14, node 4, gene 2, col 1
+func 0 - 15
+gene 15, node 5, gene 0, col 1
+input choice from 13
+gene 16, node 5, gene 1, col 1
+input choice from 13
+gene 17, node 5, gene 2, col 1
+func 0 - 15
+gene 18, node 6, gene 0, col 1
+input choice from 13
+gene 19, node 6, gene 1, col 1
+input choice from 13
+gene 20, node 6, gene 2, col 1
+func 0 - 15
+gene 21, node 7, gene 0, col 1
+input choice from 13
+gene 22, node 7, gene 1, col 1
+input choice from 13
+gene 23, node 7, gene 2, col 1
+func 0 - 15
+gene 24, node 8, gene 0, col 2
+input choice from 13
+gene 25, node 8, gene 1, col 2
+input choice from 13
+gene 26, node 8, gene 2, col 2
+func 0 - 15
+gene 27, node 9, gene 0, col 2
+input choice from 13
+gene 28, node 9, gene 1, col 2
+input choice from 13
+gene 29, node 9, gene 2, col 2
+func 0 - 15
+gene 30, node 10, gene 0, col 2
+input choice from 13
+gene 31, node 10, gene 1, col 2
+input choice from 13
+gene 32, node 10, gene 2, col 2
+func 0 - 15
+gene 33, node 11, gene 0, col 2
+input choice from 13
+gene 34, node 11, gene 1, col 2
+input choice from 13
+gene 35, node 11, gene 2, col 2
+func 0 - 15
+gene 36, node 12, gene 0, col 3
+input choice from 13
+gene 37, node 12, gene 1, col 3
+input choice from 13
+gene 38, node 12, gene 2, col 3
+func 0 - 15
+gene 39, node 13, gene 0, col 3
+input choice from 13
+gene 40, node 13, gene 1, col 3
+input choice from 13
+gene 41, node 13, gene 2, col 3
+func 0 - 15
+gene 42, node 14, gene 0, col 3
+input choice from 13
+gene 43, node 14, gene 1, col 3
+input choice from 13
+gene 44, node 14, gene 2, col 3
+func 0 - 15
+gene 45, node 15, gene 0, col 3
+input choice from 13
+gene 46, node 15, gene 1, col 3
+input choice from 13
+gene 47, node 15, gene 2, col 3
+func 0 - 15
+gene 48, node 16, gene 0, col 4
+input choice from 13
+gene 49, node 16, gene 1, col 4
+input choice from 13
+gene 50, node 16, gene 2, col 4
+func 0 - 15
+gene 51, node 17, gene 0, col 4
+input choice from 13
+gene 52, node 17, gene 1, col 4
+input choice from 13
+gene 53, node 17, gene 2, col 4
+func 0 - 15
+gene 54, node 18, gene 0, col 4
+input choice from 13
+gene 55, node 18, gene 1, col 4
+input choice from 13
+gene 56, node 18, gene 2, col 4
+func 0 - 15
+gene 57, node 19, gene 0, col 4
+input choice from 13
+gene 58, node 19, gene 1, col 4
+input choice from 13
+gene 59, node 19, gene 2, col 4
+func 0 - 15
+gene 60, node 20, gene 0, col 5
+input choice from 13
+gene 61, node 20, gene 1, col 5
+input choice from 13
+gene 62, node 20, gene 2, col 5
+func 0 - 15
+gene 63, node 21, gene 0, col 5
+input choice from 13
+gene 64, node 21, gene 1, col 5
+input choice from 13
+gene 65, node 21, gene 2, col 5
+func 0 - 15
+gene 66, node 22, gene 0, col 5
+input choice from 13
+gene 67, node 22, gene 1, col 5
+input choice from 13
+gene 68, node 22, gene 2, col 5
+func 0 - 15
+gene 69, node 23, gene 0, col 5
+input choice from 13
+gene 70, node 23, gene 1, col 5
+input choice from 13
+gene 71, node 23, gene 2, col 5
+func 0 - 15
+gene 72, node 24, gene 0, col 6
+input choice from 13
+gene 73, node 24, gene 1, col 6
+input choice from 13
+gene 74, node 24, gene 2, col 6
+func 0 - 15
+gene 75, node 25, gene 0, col 6
+input choice from 13
+gene 76, node 25, gene 1, col 6
+input choice from 13
+gene 77, node 25, gene 2, col 6
+func 0 - 15
+gene 78, node 26, gene 0, col 6
+input choice from 13
+gene 79, node 26, gene 1, col 6
+input choice from 13
+gene 80, node 26, gene 2, col 6
+func 0 - 15
+gene 81, node 27, gene 0, col 6
+input choice from 13
+gene 82, node 27, gene 1, col 6
+input choice from 13
+gene 83, node 27, gene 2, col 6
+func 0 - 15
+gene 84, node 28, gene 0, col 7
+input choice from 13
+gene 85, node 28, gene 1, col 7
+input choice from 13
+gene 86, node 28, gene 2, col 7
+func 0 - 15
+gene 87, node 29, gene 0, col 7
+input choice from 13
+gene 88, node 29, gene 1, col 7
+input choice from 13
+gene 89, node 29, gene 2, col 7
+func 0 - 15
+gene 90, node 30, gene 0, col 7
+input choice from 13
+gene 91, node 30, gene 1, col 7
+input choice from 13
+gene 92, node 30, gene 2, col 7
+func 0 - 15
+gene 93, node 31, gene 0, col 7
+input choice from 13
+gene 94, node 31, gene 1, col 7
+input choice from 13
+gene 95, node 31, gene 2, col 7
+func 0 - 15
+out 9 - 40

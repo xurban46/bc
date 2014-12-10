@@ -1,0 +1,56 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.exe.stackdump
+coco
+coco_apply
+
+# Makefile little helper
+.depend
+
+# Private files
+*.sublime-workspace
+
+# Log files
+src/cocolog
+src/*.bmp
+
+# Archives
+*.tar.gz
+
+# Junk
+Thumbs.db
+
+# Experimental results
+results/*
+anselm/*
+
+# Documentation
+text/*.pdf
+text/*.aux
+text/*.dvi
+text/*.log
+text/*.blg
+text/*.toc
+text/*.out
+text/*.lof
+text/literatura-latin2.bib
