@@ -1,5 +1,5 @@
 CoCo - Colearning in Coevolutionary Algorithms
-==============================================
+=============================================
 
 Bc. Michal Wiglasz &lt;xwigla00@stud.fit.vutbr.cz>
 
